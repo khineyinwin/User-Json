@@ -1,0 +1,20 @@
+{
+  "Users": [
+    {
+      "userName": "Admin",
+      "password": "admin12345"
+    },
+    {
+      "userName": "Operator",
+      "password": "operator12345"
+    },
+    {
+      "userName": "User",
+      "password": "user12345"
+    },
+    {
+      "userName": "Root",
+      "password": "root12345"
+    }
+  ]
+}
